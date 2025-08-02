@@ -1,25 +1,24 @@
 #EXTM3U
 
-############ MOVIES ############
-#EXTINF:-1 group-title="Movies | 2022",Avatar 2 (2022)
-http://yourserver.com/movies/2022/avatar2.mp4
+############ HOLLYWOOD MOVIES ############
 
-#EXTINF:-1 group-title="Movies | 2023",Oppenheimer (2023)
-http://yourserver.com/movies/2023/oppenheimer.mp4
+#EXTINF:-1 group-title="Hollywood | 2022",Avatar: The Way of Water (2022)
+http://yourserver.com/hollywood/2022/avatar2.mp4
 
-############ SERIES ############
-#EXTINF:-1 group-title="Series | Dark | S01",Dark - S01E01
-http://yourserver.com/series/Dark/S01E01.mp4
+#EXTINF:-1 group-title="Hollywood | 2023",Oppenheimer (2023)
+http://yourserver.com/hollywood/2023/oppenheimer.mp4
 
-#EXTINF:-1 group-title="Series | Dark | S01",Dark - S01E02
-http://yourserver.com/series/Dark/S01E02.mp4
+#EXTINF:-1 group-title="Hollywood | 2023",John Wick 4 (2023)
+http://yourserver.com/hollywood/2023/johnwick4.mp4
 
-#EXTINF:-1 group-title="Series | Breaking Bad | S01",Breaking Bad - S01E01
-http://yourserver.com/series/BreakingBad/S01E01.mp4
 
-############ LIVE TV ############
-#EXTINF:-1 group-title="Live TV | News",BBC World News
-http://yourserver.com/live/bbc.m3u8
+############ BOLLYWOOD MOVIES ############
 
-#EXTINF:-1 group-title="Live TV | Sports",ESPN HD
-http://yourserver.com/live/espn.m3u8
+#EXTINF:-1 group-title="Bollywood | 2022",Brahmāstra (2022)
+http://yourserver.com/bollywood/2022/brahmastra.mp4
+
+#EXTINF:-1 group-title="Bollywood | 2023",Pathaan (2023)
+http://yourserver.com/bollywood/2023/pathaan.mp4
+
+#EXTINF:-1 group-title="Bollywood | 2023",Jawan (2023)
+http://yourserver.com/bollywood/2023/jawan.mp4
