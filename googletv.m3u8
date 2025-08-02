@@ -1,1 +1,25 @@
+#EXTM3U
 
+############ MOVIES ############
+#EXTINF:-1 group-title="Movies | 2022",Avatar 2 (2022)
+http://yourserver.com/movies/2022/avatar2.mp4
+
+#EXTINF:-1 group-title="Movies | 2023",Oppenheimer (2023)
+http://yourserver.com/movies/2023/oppenheimer.mp4
+
+############ SERIES ############
+#EXTINF:-1 group-title="Series | Dark | S01",Dark - S01E01
+http://yourserver.com/series/Dark/S01E01.mp4
+
+#EXTINF:-1 group-title="Series | Dark | S01",Dark - S01E02
+http://yourserver.com/series/Dark/S01E02.mp4
+
+#EXTINF:-1 group-title="Series | Breaking Bad | S01",Breaking Bad - S01E01
+http://yourserver.com/series/BreakingBad/S01E01.mp4
+
+############ LIVE TV ############
+#EXTINF:-1 group-title="Live TV | News",BBC World News
+http://yourserver.com/live/bbc.m3u8
+
+#EXTINF:-1 group-title="Live TV | Sports",ESPN HD
+http://yourserver.com/live/espn.m3u8
