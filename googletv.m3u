@@ -2,23 +2,5 @@
 
 ############ HOLLYWOOD MOVIES ############
 
-#EXTINF:-1 group-title="Hollywood | 2022",Avatar: The Way of Water (2022)
-http://yourserver.com/hollywood/2022/avatar2.mp4
-
-#EXTINF:-1 group-title="Hollywood | 2023",Oppenheimer (2023)
-http://yourserver.com/hollywood/2023/oppenheimer.mp4
-
-#EXTINF:-1 group-title="Hollywood | 2023",John Wick 4 (2023)
-http://yourserver.com/hollywood/2023/johnwick4.mp4
-
-
-############ BOLLYWOOD MOVIES ############
-
-#EXTINF:-1 group-title="Bollywood | 2022",Brahmāstra (2022)
-http://yourserver.com/bollywood/2022/brahmastra.mp4
-
-#EXTINF:-1 group-title="Bollywood | 2023",Pathaan (2023)
-http://yourserver.com/bollywood/2023/pathaan.mp4
-
-#EXTINF:-1 group-title="Bollywood | 2023",Jawan (2023)
-http://yourserver.com/bollywood/2023/jawan.mp4
+#EXTINF:-1 group-title="Ebox | Hollywood | 2008",Indiana Jones and the Kingdom of the Crystal Skull [2008]
+http://fs.ebox.live/Movies/Hollywood/2008/Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%20%5B2008%5D/
