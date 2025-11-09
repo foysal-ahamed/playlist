@@ -1,39 +1,4 @@
 #EXTM3U
 
-############ HOLLYWOOD MOVIES ############
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2008",Indiana Jones and the Kingdom of the Crystal Skull [2008]
-http://fs.ebox.live/Movies/Hollywood/2008/Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%20%5B2008%5D/Indiana.Jones.And.The.Kingdom.Of.The.Crystal.Skull.2008__1080p.BRrip__E-BOX.mp4
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 1991",Terminator 2: Judgment Day [1991]
-http://fs.ebox.live/Movies/Hollywood/1991/Terminator%202%3A%20Judgment%20Day%20%5B1991%5D/Terminator%202%3A%20Judgment%20Day%20%281991%29__720p.BRrip__E-BOX.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2003",Terminator 3 Rise of the Machines [2003]
-http://fs.ebox.live/Movies/Hollywood/2003/Terminator%203%20Rise%20of%20the%20Machines%20%5B2003%5D/Terminator.3.Rise.of.The.Machines.2003__1080p.BRrip__E-BOX.mp4
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2003",Pirates of the Caribbean: The Curse of the Black Pearl [2003]
-http://fs.ebox.live/Movies/Hollywood/2003/Pirates%20of%20The%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%20%5B2003%5D/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003__BRrip__E-BOX.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2006",Pirates of the Caribbean: Dead Man's Chest [2006]
-http://fs.ebox.live/Movies/Hollywood/2006/Pirates%20of%20the%20Caribbean%20Dead%20Man%27s%20Chest%20%5B2006%5D/Pirates.of.the.Caribbean.Dead.Man%27s.Chest.2006__BRrip__E-BOX.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2007",Pirates of the Caribbean: At World's End [2007]
-http://fs.ebox.live/Movies/Hollywood/2007/Pirates%20of%20the%20Caribbean%20At%20World%27s%20End%20%5B2007%5D/Pirates.of.the.Caribbean.At.World%27s.End.2007__BRrip__E-BOX.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2011",Pirates of the Caribbean: On Stranger Tides [2011]
-http://fs.ebox.live/Movies/Hollywood/2011/Pirates%20of%20the%20Caribbean%3A%20On%20Stranger%20Tides%20%5B2011%5D/Piratesof.the.Caribbean.On.Stranger.Tides.2011__1080p.BRrip__E-BOX.mp4
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2017",Pirates of the Caribbean: Dead Men Tell No Tales [2017]
-http://fs.ebox.live/Movies/Hollywood/2017/Pirates%20of%20the%20Caribbean-Dead%20Men%20Tell%20No%20Tales%20%282017%29%20720p%20%5BDual%20Audio%5D/Pirates%20of%20the%20Caribbean%205%20%282017%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2006",Superman Returns [2006]
-http://fs.ebox.live/Movies/Hollywood/2006/Superman%20Returns%20%5B2006%5D/Superman.Returns.2006__HDrip__E-BOX.mp4
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2013",Man of Steel [2013]
-http://fs.ebox.live/Movies/Hollywood/2013/Man%20of%20Steel%20%5B2013%5D/Man.of.Steel.2013__1080p.BluRay__E-BOX.mp4
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2016",Batman v Superman-Dawn of Justice (2016) 720p [Dual Audio]
-http://fs.ebox.live/Movies/Hollywood/2016/Batman%20v%20Superman-Dawn%20of%20Justice%20%282016%29%20720p%20%5BDual%20Audio%5D/Batman%20v%20Superman%20%282016%29%20Extended%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
-
-#EXTINF:-1 group-title="Ebox | Hollywood | 2021",Zack Snyder's Justice League [2021]
-http://fs.ebox.live/Movies/Hollywood/2021/Zack%20Snyder%27s%20Justice%20League%20%5B2021%5D/Zack.Snyders.Justice.League.2021__1080p.WEBrip__E-BOX.mp4
+#EXTINF:-1
+http://30.30.30.130/timepassbd-data/ftp1/ENGLISH_MOVIES/2015/Cinderella-%282015%29-1080p-BluRay/Cinderella-2015-1080p.mp4
