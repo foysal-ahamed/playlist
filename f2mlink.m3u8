@@ -1,0 +1,321 @@
+#EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.18.0.6:5000/stream/8293746150293/playlist.m3u8
+#EXTINF:-1 tvg-id="4829103847562" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.18.0.6:5000/stream/4829103847562/playlist.m3u8
+#EXTINF:-1 tvg-id="9102938475610" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.18.0.6:5000/stream/9102938475610/playlist.m3u8
+#EXTINF:-1 tvg-id="3748291029384" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.18.0.6:5000/stream/3748291029384/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910238" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.18.0.6:5000/stream/5647382910238/playlist.m3u8
+#EXTINF:-1 tvg-id="2938475610298" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.18.0.6:5000/stream/2938475610298/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756201" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.18.0.6:5000/stream/1029384756201/playlist.m3u8
+#EXTINF:-1 tvg-id="6574839201827" tvg-name="Star Jalsha" tvg-logo="" group-title="",Star Jalsha
+http://172.18.0.6:5000/stream/6574839201827/playlist.m3u8
+#EXTINF:-1 tvg-id="9203847561029" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.18.0.6:5000/stream/9203847561029/playlist.m3u8
+#EXTINF:-1 tvg-id="3847562910384" tvg-name="Star Sports Select 2" tvg-logo="" group-title="",Star Sports Select 2
+http://172.18.0.6:5000/stream/3847562910384/playlist.m3u8
+#EXTINF:-1 tvg-id="4758293018273" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.18.0.6:5000/stream/4758293018273/playlist.m3u8
+#EXTINF:-1 tvg-id="7483920192837" tvg-name="Nagorik" tvg-logo="" group-title="",Nagorik
+http://172.18.0.6:5000/stream/7483920192837/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761029" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.18.0.6:5000/stream/2039485761029/playlist.m3u8
+#EXTINF:-1 tvg-id="5839201928374" tvg-name="ATN Bangla" tvg-logo="" group-title="",ATN Bangla
+http://172.18.0.6:5000/stream/5839201928374/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650192" tvg-name="Asian" tvg-logo="" group-title="",Asian
+http://172.18.0.6:5000/stream/1928374650192/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920384" tvg-name="Ananda TV" tvg-logo="" group-title="",Ananda TV
+http://172.18.0.6:5000/stream/8374651920384/playlist.m3u8
+#EXTINF:-1 tvg-id="4958273615029" tvg-name="Bangla TV" tvg-logo="" group-title="",Bangla TV
+http://172.18.0.6:5000/stream/4958273615029/playlist.m3u8
+#EXTINF:-1 tvg-id="6039485712938" tvg-name="Boishakhi TV" tvg-logo="" group-title="",Boishakhi TV
+http://172.18.0.6:5000/stream/6039485712938/playlist.m3u8
+#EXTINF:-1 tvg-id="3829104857612" tvg-name="Bijoy TV" tvg-logo="" group-title="",Bijoy TV
+http://172.18.0.6:5000/stream/3829104857612/playlist.m3u8
+#EXTINF:-1 tvg-id="7384950291827" tvg-name="Bangla Vision" tvg-logo="" group-title="",Bangla Vision
+http://172.18.0.6:5000/stream/7384950291827/playlist.m3u8
+#EXTINF:-1 tvg-id="5019283746510" tvg-name="BTV" tvg-logo="" group-title="",BTV
+http://172.18.0.6:5000/stream/5019283746510/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450192" tvg-name="Channel I" tvg-logo="" group-title="",Channel I
+http://172.18.0.6:5000/stream/9182736450192/playlist.m3u8
+#EXTINF:-1 tvg-id="2736451029384" tvg-name="Channel 9" tvg-logo="" group-title="",Channel 9
+http://172.18.0.6:5000/stream/2736451029384/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847562" tvg-name="Deepto" tvg-logo="" group-title="",Deepto
+http://172.18.0.6:5000/stream/6510293847562/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029384" tvg-name="Desh TV" tvg-logo="" group-title="",Desh TV
+http://172.18.0.6:5000/stream/3847561029384/playlist.m3u8
+#EXTINF:-1 tvg-id="8475610293847" tvg-name="Ekushey TV" tvg-logo="" group-title="",Ekushey TV
+http://172.18.0.6:5000/stream/8475610293847/playlist.m3u8
+#EXTINF:-1 tvg-id="7561029384756" tvg-name="GTV" tvg-logo="" group-title="",GTV
+http://172.18.0.6:5000/stream/7561029384756/playlist.m3u8
+#EXTINF:-1 tvg-id="4857619203847" tvg-name="Global Television" tvg-logo="" group-title="",Global Television
+http://172.18.0.6:5000/stream/4857619203847/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029385" tvg-name="Maasranga" tvg-logo="" group-title="",Maasranga
+http://172.18.0.6:5000/stream/3847561029385/playlist.m3u8
+#EXTINF:-1 tvg-id="9283746510293" tvg-name="Mohona TV" tvg-logo="" group-title="",Mohona TV
+http://172.18.0.6:5000/stream/9283746510293/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910293" tvg-name="My TV" tvg-logo="" group-title="",My TV
+http://172.18.0.6:5000/stream/5647382910293/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650293" tvg-name="Movie Bangla" tvg-logo="" group-title="",Movie Bangla
+http://172.18.0.6:5000/stream/1928374650293/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920293" tvg-name="Nagorik" tvg-logo="" group-title="",Nagorik
+http://172.18.0.6:5000/stream/8374651920293/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910391" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.18.0.6:5000/stream/5647382910391/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293855" tvg-name="&flix" tvg-logo="" group-title="",&flix
+http://172.18.0.6:5000/stream/7364510293855/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938484" tvg-name="&prive" tvg-logo="" group-title="",&prive
+http://172.18.0.6:5000/stream/4857201938484/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847570" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://172.18.0.6:5000/stream/6510293847570/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650301" tvg-name="Lotus" tvg-logo="" group-title="",Lotus
+http://172.18.0.6:5000/stream/1928374650301/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029395" tvg-name="MN+" tvg-logo="" group-title="",MN+
+http://172.18.0.6:5000/stream/3847561029395/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293856" tvg-name="MNX" tvg-logo="" group-title="",MNX
+http://172.18.0.6:5000/stream/7364510293856/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761034" tvg-name="Movies Now" tvg-logo="" group-title="",Movies Now
+http://172.18.0.6:5000/stream/2039485761034/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938485" tvg-name="Romedy Now" tvg-logo="" group-title="",Romedy Now
+http://172.18.0.6:5000/stream/4857201938485/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756110" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.18.0.6:5000/stream/1029384756110/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847571" tvg-name="Star Movies" tvg-logo="" group-title="",Star Movies
+http://172.18.0.6:5000/stream/6510293847571/playlist.m3u8
+#EXTINF:-1 tvg-id="2910384756107" tvg-name="Star Movies Select" tvg-logo="" group-title="",Star Movies Select
+http://172.18.0.6:5000/stream/2910384756107/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910394" tvg-name="Zee Cafe" tvg-logo="" group-title="",Zee Cafe
+http://172.18.0.6:5000/stream/5647382910394/playlist.m3u8
+#EXTINF:-1 tvg-id="2910384756104" tvg-name="Star Plus" tvg-logo="" group-title="",Star Plus
+http://172.18.0.6:5000/stream/2910384756104/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910388" tvg-name="Zee  TV" tvg-logo="" group-title="",Zee  TV
+http://172.18.0.6:5000/stream/5647382910388/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920297" tvg-name="Sony Entertainment Television" tvg-logo="" group-title="",Sony Entertainment Television
+http://172.18.0.6:5000/stream/8374651920297/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650296" tvg-name="Colors" tvg-logo="" group-title="",Colors
+http://172.18.0.6:5000/stream/1928374650296/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029390" tvg-name="& TV" tvg-logo="" group-title="",& TV
+http://172.18.0.6:5000/stream/3847561029390/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293851" tvg-name="Star Bharat" tvg-logo="" group-title="",Star Bharat
+http://172.18.0.6:5000/stream/7364510293851/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938480" tvg-name="Star Gold" tvg-logo="" group-title="",Star Gold
+http://172.18.0.6:5000/stream/4857201938480/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756105" tvg-name="Star Gold 2" tvg-logo="" group-title="",Star Gold 2
+http://172.18.0.6:5000/stream/1029384756105/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847566" tvg-name="Star Gold Select" tvg-logo="" group-title="",Star Gold Select
+http://172.18.0.6:5000/stream/6510293847566/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847564" tvg-name="Zee Cinema HD" tvg-logo="" group-title="",Zee Cinema HD
+http://172.18.0.6:5000/stream/2910293847564/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450297" tvg-name="Zee Cinema" tvg-logo="" group-title="",Zee Cinema
+http://172.18.0.6:5000/stream/9182736450297/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910389" tvg-name="Zee Action" tvg-logo="" group-title="",Zee Action
+http://172.18.0.6:5000/stream/5647382910389/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650297" tvg-name="Zee Anmol" tvg-logo="" group-title="",Zee Anmol
+http://172.18.0.6:5000/stream/1928374650297/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920298" tvg-name="Zee Bollywood" tvg-logo="" group-title="",Zee Bollywood
+http://172.18.0.6:5000/stream/8374651920298/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029391" tvg-name="Sony Max HD" tvg-logo="" group-title="",Sony Max HD
+http://172.18.0.6:5000/stream/3847561029391/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293852" tvg-name="Sony Max" tvg-logo="" group-title="",Sony Max
+http://172.18.0.6:5000/stream/7364510293852/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761032" tvg-name="Sony Max 2" tvg-logo="" group-title="",Sony Max 2
+http://172.18.0.6:5000/stream/2039485761032/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938481" tvg-name="Sony Sab" tvg-logo="" group-title="",Sony Sab
+http://172.18.0.6:5000/stream/4857201938481/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756106" tvg-name="Sony Wah" tvg-logo="" group-title="",Sony Wah
+http://172.18.0.6:5000/stream/1029384756106/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847567" tvg-name="Colors Cineplex" tvg-logo="" group-title="",Colors Cineplex
+http://172.18.0.6:5000/stream/6510293847567/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938478" tvg-name="Star Jalsha" tvg-logo="" group-title="",Star Jalsha
+http://172.18.0.6:5000/stream/4857201938478/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756104" tvg-name="Zee Bangla" tvg-logo="" group-title="",Zee Bangla
+http://172.18.0.6:5000/stream/1029384756104/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450295" tvg-name="Colors Bangla" tvg-logo="" group-title="",Colors Bangla
+http://172.18.0.6:5000/stream/9182736450295/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847563" tvg-name="Sony Aath" tvg-logo="" group-title="",Sony Aath
+http://172.18.0.6:5000/stream/2910293847563/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910387" tvg-name="Jalsha Movies" tvg-logo="" group-title="",Jalsha Movies
+http://172.18.0.6:5000/stream/5647382910387/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650295" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="",Zee Bangla Cinema
+http://172.18.0.6:5000/stream/1928374650295/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920296" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="",Colors Bangla Cinema
+http://172.18.0.6:5000/stream/8374651920296/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029389" tvg-name="Aakash Aath" tvg-logo="" group-title="",Aakash Aath
+http://172.18.0.6:5000/stream/3847561029389/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293850" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="",Enterr10 Bangla
+http://172.18.0.6:5000/stream/7364510293850/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938479" tvg-name="Rongeen TV" tvg-logo="" group-title="",Rongeen TV
+http://172.18.0.6:5000/stream/4857201938479/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761031" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="",Ruposhi Bangla
+http://172.18.0.6:5000/stream/2039485761031/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847565" tvg-name="Sun Bangla" tvg-logo="" group-title="",Sun Bangla
+http://172.18.0.6:5000/stream/6510293847565/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756107" tvg-name="Hum Masala" tvg-logo="" group-title="",Hum Masala
+http://172.18.0.6:5000/stream/1029384756107/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920302" tvg-name="Love Nature" tvg-logo="" group-title="",Love Nature
+http://172.18.0.6:5000/stream/8374651920302/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450302" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
+http://172.18.0.6:5000/stream/9182736450302/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650302" tvg-name="BBC Earth" tvg-logo="" group-title="",BBC Earth
+http://172.18.0.6:5000/stream/1928374650302/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920303" tvg-name="Discovery" tvg-logo="" group-title="",Discovery
+http://172.18.0.6:5000/stream/8374651920303/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029396" tvg-name="Discovery" tvg-logo="" group-title="",Discovery
+http://172.18.0.6:5000/stream/3847561029396/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293857" tvg-name="Discovery Science" tvg-logo="" group-title="",Discovery Science
+http://172.18.0.6:5000/stream/7364510293857/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938486" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+http://172.18.0.6:5000/stream/4857201938486/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756111" tvg-name="History TV18" tvg-logo="" group-title="",History TV18
+http://172.18.0.6:5000/stream/1029384756111/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847572" tvg-name="Investigation Discovery" tvg-logo="" group-title="",Investigation Discovery
+http://172.18.0.6:5000/stream/6510293847572/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847567" tvg-name="Nat Geo Wild" tvg-logo="" group-title="",Nat Geo Wild
+http://172.18.0.6:5000/stream/2910293847567/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910395" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
+http://172.18.0.6:5000/stream/5647382910395/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450303" tvg-name="Sony BBC Earth" tvg-logo="" group-title="",Sony BBC Earth
+http://172.18.0.6:5000/stream/9182736450303/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761035" tvg-name="Red Bull TV" tvg-logo="" group-title="",Red Bull TV
+http://172.18.0.6:5000/stream/2039485761035/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650303" tvg-name="TLC" tvg-logo="" group-title="",TLC
+http://172.18.0.6:5000/stream/1928374650303/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920304" tvg-name="Travel XP" tvg-logo="" group-title="",Travel XP
+http://172.18.0.6:5000/stream/8374651920304/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029397" tvg-name="Wild Earth" tvg-logo="" group-title="",Wild Earth
+http://172.18.0.6:5000/stream/3847561029397/playlist.m3u8
+#EXTINF:-1 tvg-id="1920384756123" tvg-name="Duronto" tvg-logo="" group-title="",Duronto
+http://172.18.0.6:5000/stream/1920384756123/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650299" tvg-name="ETV Bal Bharat" tvg-logo="" group-title="",ETV Bal Bharat
+http://172.18.0.6:5000/stream/1928374650299/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920300" tvg-name="Cartoon Network HD+" tvg-logo="" group-title="",Cartoon Network HD+
+http://172.18.0.6:5000/stream/8374651920300/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029393" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+http://172.18.0.6:5000/stream/3847561029393/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293854" tvg-name="Discovery Kids" tvg-logo="" group-title="",Discovery Kids
+http://172.18.0.6:5000/stream/7364510293854/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938483" tvg-name="Disnep Channel" tvg-logo="" group-title="",Disnep Channel
+http://172.18.0.6:5000/stream/4857201938483/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761033" tvg-name="Duronto" tvg-logo="" group-title="",Duronto
+http://172.18.0.6:5000/stream/2039485761033/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756108" tvg-name="Hungama" tvg-logo="" group-title="",Hungama
+http://172.18.0.6:5000/stream/1029384756108/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847569" tvg-name="Nick" tvg-logo="" group-title="",Nick
+http://172.18.0.6:5000/stream/6510293847569/playlist.m3u8
+#EXTINF:-1 tvg-id="2910384756106" tvg-name="Nick Jr" tvg-logo="" group-title="",Nick Jr
+http://172.18.0.6:5000/stream/2910384756106/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910392" tvg-name="Pogo" tvg-logo="" group-title="",Pogo
+http://172.18.0.6:5000/stream/5647382910392/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450300" tvg-name="Sonic" tvg-logo="" group-title="",Sonic
+http://172.18.0.6:5000/stream/9182736450300/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650300" tvg-name="Sony Yay" tvg-logo="" group-title="",Sony Yay
+http://172.18.0.6:5000/stream/1928374650300/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920301" tvg-name="Super Hungama" tvg-logo="" group-title="",Super Hungama
+http://172.18.0.6:5000/stream/8374651920301/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029392" tvg-name="B4U Music" tvg-logo="" group-title="",B4U Music
+http://172.18.0.6:5000/stream/3847561029392/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293853" tvg-name="Zing" tvg-logo="" group-title="",Zing
+http://172.18.0.6:5000/stream/7364510293853/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938482" tvg-name="Zoom" tvg-logo="" group-title="",Zoom
+http://172.18.0.6:5000/stream/4857201938482/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450301" tvg-name="Hitz" tvg-logo="" group-title="",Hitz
+http://172.18.0.6:5000/stream/9182736450301/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847573" tvg-name="9x Jalwa" tvg-logo="" group-title="",9x Jalwa
+http://172.18.0.6:5000/stream/6510293847573/playlist.m3u8
+#EXTINF:-1 tvg-id="2910384756108" tvg-name="B4U Music" tvg-logo="" group-title="",B4U Music
+http://172.18.0.6:5000/stream/2910384756108/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910396" tvg-name="Sangeet Bangla" tvg-logo="" group-title="",Sangeet Bangla
+http://172.18.0.6:5000/stream/5647382910396/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450304" tvg-name="Mastiii" tvg-logo="" group-title="",Mastiii
+http://172.18.0.6:5000/stream/9182736450304/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650304" tvg-name="Trace Urban" tvg-logo="" group-title="",Trace Urban
+http://172.18.0.6:5000/stream/1928374650304/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920305" tvg-name="Show Box" tvg-logo="" group-title="",Show Box
+http://172.18.0.6:5000/stream/8374651920305/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029398" tvg-name="yrf Music" tvg-logo="" group-title="",yrf Music
+http://172.18.0.6:5000/stream/3847561029398/playlist.m3u8
+#EXTINF:-1 tvg-id="6928374501928" tvg-name="ATN News" tvg-logo="" group-title="",ATN News
+http://172.18.0.6:5000/stream/6928374501928/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847561" tvg-name="BTV News" tvg-logo="" group-title="",BTV News
+http://172.18.0.6:5000/stream/2910293847561/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938475" tvg-name="Channel 24" tvg-logo="" group-title="",Channel 24
+http://172.18.0.6:5000/stream/4857201938475/playlist.m3u8
+#EXTINF:-1 tvg-id="5610293847561" tvg-name="DBC" tvg-logo="" group-title="",DBC
+http://172.18.0.6:5000/stream/5610293847561/playlist.m3u8
+#EXTINF:-1 tvg-id="2938475610238" tvg-name="Ekhon" tvg-logo="" group-title="",Ekhon
+http://172.18.0.6:5000/stream/2938475610238/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756102" tvg-name="Independent" tvg-logo="" group-title="",Independent
+http://172.18.0.6:5000/stream/1029384756102/playlist.m3u8
+#EXTINF:-1 tvg-id="6574839201928" tvg-name="Jamuna TV" tvg-logo="" group-title="",Jamuna TV
+http://172.18.0.6:5000/stream/6574839201928/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938476" tvg-name="News 24" tvg-logo="" group-title="",News 24
+http://172.18.0.6:5000/stream/4857201938476/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450293" tvg-name="Somoy TV" tvg-logo="" group-title="",Somoy TV
+http://172.18.0.6:5000/stream/9182736450293/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029386" tvg-name="71" tvg-logo="" group-title="",71
+http://172.18.0.6:5000/stream/3847561029386/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450296" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="",Zee 24 Ghanta
+http://172.18.0.6:5000/stream/9182736450296/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450299" tvg-name="Geo News" tvg-logo="" group-title="",Geo News
+http://172.18.0.6:5000/stream/9182736450299/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029394" tvg-name="Al Jazeera" tvg-logo="" group-title="",Al Jazeera
+http://172.18.0.6:5000/stream/3847561029394/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847566" tvg-name="CNN" tvg-logo="" group-title="",CNN
+http://172.18.0.6:5000/stream/2910293847566/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910393" tvg-name="BBC News" tvg-logo="" group-title="",BBC News
+http://172.18.0.6:5000/stream/5647382910393/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293858" tvg-name="Madani Channel Bangla" tvg-logo="" group-title="",Madani Channel Bangla
+http://172.18.0.6:5000/stream/7364510293858/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938487" tvg-name="Peace TV Bangla" tvg-logo="" group-title="",Peace TV Bangla
+http://172.18.0.6:5000/stream/4857201938487/playlist.m3u8
+#EXTINF:-1 tvg-id="1029384756112" tvg-name="Islam Channel Bangla" tvg-logo="" group-title="",Islam Channel Bangla
+http://172.18.0.6:5000/stream/1029384756112/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293848" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.18.0.6:5000/stream/7364510293848/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847562" tvg-name="Star Sports 1" tvg-logo="" group-title="",Star Sports 1
+http://172.18.0.6:5000/stream/2910293847562/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847563" tvg-name="Star Sports 2" tvg-logo="" group-title="",Star Sports 2
+http://172.18.0.6:5000/stream/6510293847563/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938477" tvg-name="Star Sports 3" tvg-logo="" group-title="",Star Sports 3
+http://172.18.0.6:5000/stream/4857201938477/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650294" tvg-name="Star Sports Select 1" tvg-logo="" group-title="",Star Sports Select 1
+http://172.18.0.6:5000/stream/1928374650294/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920294" tvg-name="Star Sports Select 2" tvg-logo="" group-title="",Star Sports Select 2
+http://172.18.0.6:5000/stream/8374651920294/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910385" tvg-name="Sony Sports Ten 1" tvg-logo="" group-title="",Sony Sports Ten 1
+http://172.18.0.6:5000/stream/5647382910385/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761030" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.18.0.6:5000/stream/2039485761030/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029387" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="",Sony Sports Ten 3
+http://172.18.0.6:5000/stream/3847561029387/playlist.m3u8
+#EXTINF:-1 tvg-id="7483920192838" tvg-name="Sony Sports Ten 4" tvg-logo="" group-title="",Sony Sports Ten 4
+http://172.18.0.6:5000/stream/7483920192838/playlist.m3u8
+#EXTINF:-1 tvg-id="9182736450294" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.18.0.6:5000/stream/9182736450294/playlist.m3u8
+#EXTINF:-1 tvg-id="1920384756124" tvg-name="Ten Cricket" tvg-logo="" group-title="",Ten Cricket
+http://172.18.0.6:5000/stream/1920384756124/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847564" tvg-name="A Sports" tvg-logo="" group-title="",A Sports
+http://172.18.0.6:5000/stream/6510293847564/playlist.m3u8
+#EXTINF:-1 tvg-id="2910384756103" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.18.0.6:5000/stream/2910384756103/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910386" tvg-name="Eurosport" tvg-logo="" group-title="",Eurosport
+http://172.18.0.6:5000/stream/5647382910386/playlist.m3u8
+#EXTINF:-1 tvg-id="8374651920295" tvg-name="Fast Sports" tvg-logo="" group-title="",Fast Sports
+http://172.18.0.6:5000/stream/8374651920295/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029388" tvg-name="Golf" tvg-logo="" group-title="",Golf
+http://172.18.0.6:5000/stream/3847561029388/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293849" tvg-name="Premier Sports" tvg-logo="" group-title="",Premier Sports
+http://172.18.0.6:5000/stream/7364510293849/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293859" tvg-name="Fancode" tvg-logo="" group-title="",Fancode
+http://172.18.0.6:5000/stream/7364510293859/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938488" tvg-name="Sky Sport Top Event" tvg-logo="" group-title="",Sky Sport Top Event
+http://172.18.0.6:5000/stream/4857201938488/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847568" tvg-name="Hum TV" tvg-logo="" group-title="",Hum TV
+http://172.18.0.6:5000/stream/6510293847568/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847565" tvg-name="Hum Sitaray" tvg-logo="" group-title="",Hum Sitaray
+http://172.18.0.6:5000/stream/2910293847565/playlist.m3u8
