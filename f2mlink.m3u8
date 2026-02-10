@@ -519,3 +519,9 @@ http://172.19.0.18:5000/stream/7/playlist.m3u8
 http://172.19.0.18:5000/stream/53/playlist.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="ZOOM" tvg-logo="" group-title="",ZOOM
 http://172.19.0.18:5000/stream/42/playlist.m3u8
+#EXTINF:-1 tvg-id="football_facup" tvg-name="FA CUP 2026" tvg-logo="" group-title="",FA CUP 2026
+http://172.19.0.18:5000/stream/football_facup/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293860" tvg-name="Bein Sports Extra" tvg-logo="" group-title="",Bein Sports Extra
+http://172.19.0.18:5000/stream/7364510293860/playlist.m3u8
+#EXTINF:-1 tvg-id="7364510293861" tvg-name="Fancode" tvg-logo="" group-title="",Fancode
+http://172.19.0.18:5000/stream/7364510293861/playlist.m3u8
