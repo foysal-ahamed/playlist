@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.19.0.18:5000/stream/8293746150293/playlist.m3u8
