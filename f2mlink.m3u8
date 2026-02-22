@@ -525,3 +525,255 @@ http://172.19.0.18:5000/stream/football_facup/playlist.m3u8
 http://172.19.0.18:5000/stream/7364510293860/playlist.m3u8
 #EXTINF:-1 tvg-id="7364510293861" tvg-name="Fancode" tvg-logo="" group-title="",Fancode
 http://172.19.0.18:5000/stream/7364510293861/playlist.m3u8
+#EXTINF:-1 tvg-id="19k2m4j1n8p3q7r5" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.19.0.18:5000/stream/19k2m4j1n8p3q7r5/playlist.m3u8
+#EXTINF:-1 tvg-id="b1v8c5x2z9m2k4h7d" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.19.0.18:5000/stream/b1v8c5x2z9m2k4h7d/playlist.m3u8
+#EXTINF:-1 tvg-id="q7w2e4r4t5y8u3i9o" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.19.0.18:5000/stream/q7w2e4r4t5y8u3i9o/playlist.m3u8
+#EXTINF:-1 tvg-id="a5s4d822g6h1j3k9l" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.19.0.18:5000/stream/a5s4d822g6h1j3k9l/playlist.m3u8
+#EXTINF:-1 tvg-id="z1x2c3v455n6m7q8w" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.19.0.18:5000/stream/z1x2c3v455n6m7q8w/playlist.m3u8
+#EXTINF:-1 tvg-id="p9o8i7u2y5t4r3e2w" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.19.0.18:5000/stream/p9o8i7u2y5t4r3e2w/playlist.m3u8
+#EXTINF:-1 tvg-id="m1n2b5v4c5x6z7l8k" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.19.0.18:5000/stream/m1n2b5v4c5x6z7l8k/playlist.m3u8
+#EXTINF:-1 tvg-id="j9h8g7f6d6s4a3q2w" tvg-name="Star Jalsha" tvg-logo="" group-title="",Star Jalsha
+http://172.19.0.18:5000/stream/j9h8g7f6d6s4a3q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t324u5i6o7p8a" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.19.0.18:5000/stream/e1r2t324u5i6o7p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f7g665j4k3l2z" tvg-name="Star Sports Select 2" tvg-logo="" group-title="",Star Sports Select 2
+http://172.19.0.18:5000/stream/s9d8f7g665j4k3l2z/playlist.m3u8
+#EXTINF:-1 tvg-id="x1c2v3b485m6q7w8e" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.19.0.18:5000/stream/x1c2v3b485m6q7w8e/playlist.m3u8
+#EXTINF:-1 tvg-id="r9t8y7u6i5o93a2s" tvg-name="Nagorik" tvg-logo="" group-title="",Nagorik
+http://172.19.0.18:5000/stream/r9t8y7u6i5o93a2s/playlist.m3u8
+#EXTINF:-1 tvg-id="c9v8b7n34q4w3e2r" tvg-name="ATN Bangla" tvg-logo="" group-title="",ATN Bangla
+http://172.19.0.18:5000/stream/c9v8b7n34q4w3e2r/playlist.m3u8
+#EXTINF:-1 tvg-id="f9g8h7j6234z3x2c" tvg-name="Asian" tvg-logo="" group-title="",Asian
+http://172.19.0.18:5000/stream/f9g8h7j6234z3x2c/playlist.m3u8
+#EXTINF:-1 tvg-id="v1b2n3m77w6e7r8t" tvg-name="Ananda TV" tvg-logo="" group-title="",Ananda TV
+http://172.19.0.18:5000/stream/v1b2n3m77w6e7r8t/playlist.m3u8
+#EXTINF:-1 tvg-id="y9u8i7o6p5a33d2f" tvg-name="Bangla TV" tvg-logo="" group-title="",Bangla TV
+http://172.19.0.18:5000/stream/y9u8i7o6p5a33d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="g1h2j3k4226x7c8v" tvg-name="Boishakhi TV" tvg-logo="" group-title="",Boishakhi TV
+http://172.19.0.18:5000/stream/g1h2j3k4226x7c8v/playlist.m3u8
+#EXTINF:-1 tvg-id="b9n8m7q6334r3t2y" tvg-name="Bijoy TV" tvg-logo="" group-title="",Bijoy TV
+http://172.19.0.18:5000/stream/b9n8m7q6334r3t2y/playlist.m3u8
+#EXTINF:-1 tvg-id="u1i2o3225s6d7f8g" tvg-name="Bangla Vision" tvg-logo="" group-title="",Bangla Vision
+http://172.19.0.18:5000/stream/u1i2o3225s6d7f8g/playlist.m3u8
+#EXTINF:-1 tvg-id="n1m2q3w4e11t7y8u" tvg-name="BTV" tvg-logo="" group-title="",BTV
+http://172.19.0.18:5000/stream/n1m2q3w4e11t7y8u/playlist.m3u8
+#EXTINF:-1 tvg-id="j1k2l3z55c6v7b8n" tvg-name="Channel I" tvg-logo="" group-title="",Channel I
+http://172.19.0.18:5000/stream/j1k2l3z55c6v7b8n/playlist.m3u8
+#EXTINF:-1 tvg-id="m9q8w7e6224y3u2i" tvg-name="Channel 9" tvg-logo="" group-title="",Channel 9
+http://172.19.0.18:5000/stream/m9q8w7e6224y3u2i/playlist.m3u8
+#EXTINF:-1 tvg-id="o1p2a3s88f6g7h8j" tvg-name="Deepto" tvg-logo="" group-title="",Deepto
+http://172.19.0.18:5000/stream/o1p2a3s88f6g7h8j/playlist.m3u8
+#EXTINF:-1 tvg-id="k9l8z7225v4b3n2m" tvg-name="Desh TV" tvg-logo="" group-title="",Desh TV
+http://172.19.0.18:5000/stream/k9l8z7225v4b3n2m/playlist.m3u8
+#EXTINF:-1 tvg-id="z9x8c7v6b3m3jmn4m3q2w" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.19.0.18:5000/stream/z9x8c7v6b3m3jmn4m3q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="n1m2q3w44mj45r6t7y8u" tvg-name="&flix" tvg-logo="" group-title="",&flix
+http://172.19.0.18:5000/stream/n1m2q3w44mj45r6t7y8u/playlist.m3u8
+#EXTINF:-1 tvg-id="i9o8p7a6skoo4d4f3g2h" tvg-name="&prive" tvg-logo="" group-title="",&prive
+http://172.19.0.18:5000/stream/i9o8p7a6skoo4d4f3g2h/playlist.m3u8
+#EXTINF:-1 tvg-id="m9q8w7nmj4km6r5t4y3u2i" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://172.19.0.18:5000/stream/m9q8w7nmj4km6r5t4y3u2i/playlist.m3u8
+#EXTINF:-1 tvg-id="p9ao3iks7d6f5g4h3j2k" tvg-name="Lotus" tvg-logo="" group-title="",Lotus
+http://172.19.0.18:5000/stream/p9ao3iks7d6f5g4h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r7tm4455u4i3o2p" tvg-name="MN+" tvg-logo="" group-title="",MN+
+http://172.19.0.18:5000/stream/w9e8r7tm4455u4i3o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="a1s2d3f4g09jbnjuh6j7k8l" tvg-name="MNX" tvg-logo="" group-title="",MNX
+http://172.19.0.18:5000/stream/a1s2d3f4g09jbnjuh6j7k8l/playlist.m3u8
+#EXTINF:-1 tvg-id="z9x8c7v6b0jhbn4m3q2w" tvg-name="Movies Now" tvg-logo="" group-title="",Movies Now
+http://172.19.0.18:5000/stream/z9x8c7v6b0jhbn4m3q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t3y48hbnk5i6o7p8a" tvg-name="Romedy Now" tvg-logo="" group-title="",Romedy Now
+http://172.19.0.18:5000/stream/e1r2t3y48hbnk5i6o7p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f7g0hnwenh5j4k3l2z" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
+http://172.19.0.18:5000/stream/s9d8f7g0hnwenh5j4k3l2z/playlist.m3u8
+#EXTINF:-1 tvg-id="x1c2v3b44jhmnj45m6q7w8e" tvg-name="Star Movies" tvg-logo="" group-title="",Star Movies
+http://172.19.0.18:5000/stream/x1c2v3b44jhmnj45m6q7w8e/playlist.m3u8
+#EXTINF:-1 tvg-id="r9t8y7u6i89dwb32o4p3a2s" tvg-name="Star Movies Select" tvg-logo="" group-title="",Star Movies Select
+http://172.19.0.18:5000/stream/r9t8y7u6i89dwb32o4p3a2s/playlist.m3u8
+#EXTINF:-1 tvg-id="k9l8z7x6cviejv4b3n2m" tvg-name="Star Plus" tvg-logo="" group-title="",Star Plus
+http://172.19.0.18:5000/stream/k9l8z7x6cviejv4b3n2m/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e3r4t5y6uhjbfehjkkji8o" tvg-name="ZeeÂ  TV" tvg-logo="" group-title="",ZeeÂ  TV
+http://172.19.0.18:5000/stream/q1w2e3r4t5y6uhjbfehjkkji8o/playlist.m3u8
+#EXTINF:-1 tvg-id="p9a8s7d64r53f5g4h3j2k" tvg-name="Sony Entertainment Television" tvg-logo="" group-title="",Sony Entertainment Television
+http://172.19.0.18:5000/stream/p9a8s7d64r53f5g4h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="l1z2x3cjkndv89v5b6n7m8q" tvg-name="Colors" tvg-logo="" group-title="",Colors
+http://172.19.0.18:5000/stream/l1z2x3cjkndv89v5b6n7m8q/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r7t6y5jhbfjk84i3o2p" tvg-name="& TV" tvg-logo="" group-title="",& TV
+http://172.19.0.18:5000/stream/w9e8r7t6y5jhbfjk84i3o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="a1s2d3f4g5h6jdfj37k8l" tvg-name="Star Bharat" tvg-logo="" group-title="",Star Bharat
+http://172.19.0.18:5000/stream/a1s2d3f4g5h6jdfj37k8l/playlist.m3u8
+#EXTINF:-1 tvg-id="z9x8c7v6b5n4mdvujney673q2w" tvg-name="Star Gold" tvg-logo="" group-title="",Star Gold
+http://172.19.0.18:5000/stream/z9x8c7v6b5n4mdvujney673q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t3y4u5ihefjhb3o7p8a" tvg-name="Star Gold 2" tvg-logo="" group-title="",Star Gold 2
+http://172.19.0.18:5000/stream/e1r2t3y4u5ihefjhb3o7p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f7g6h5jej34k3l2z" tvg-name="Star Gold Select" tvg-logo="" group-title="",Star Gold Select
+http://172.19.0.18:5000/stream/s9d8f7g6h5jej34k3l2z/playlist.m3u8
+#EXTINF:-1 tvg-id="x1c2v3b4n5dveh36q7w8e" tvg-name="Zee Cinema HD" tvg-logo="" group-title="",Zee Cinema HD
+http://172.19.0.18:5000/stream/x1c2v3b4n5dveh36q7w8e/playlist.m3u8
+#EXTINF:-1 tvg-id="r9t8y7u6i5vj3ejh4p3a2s" tvg-name="Zee Cinema" tvg-logo="" group-title="",Zee Cinema
+http://172.19.0.18:5000/stream/r9t8y7u6i5vj3ejh4p3a2s/playlist.m3u8
+#EXTINF:-1 tvg-id="d1f2g3h4j543jbn6l7z8x" tvg-name="Zee Action" tvg-logo="" group-title="",Zee Action
+http://172.19.0.18:5000/stream/d1f2g3h4j543jbn6l7z8x/playlist.m3u8
+#EXTINF:-1 tvg-id="t1y2u3ioooo5p6a7s8d" tvg-name="Star Jalsha" tvg-logo="" group-title="",Star Jalsha
+http://172.19.0.18:5000/stream/t1y2u3ioooo5p6a7s8d/playlist.m3u8
+#EXTINF:-1 tvg-id="f9g8h7j6k5jhhj4z3x2c" tvg-name="Zee Bangla" tvg-logo="" group-title="",Zee Bangla
+http://172.19.0.18:5000/stream/f9g8h7j6k5jhhj4z3x2c/playlist.m3u8
+#EXTINF:-1 tvg-id="v1b2nqsm4q5w6e7r8t" tvg-name="Colors Bangla" tvg-logo="" group-title="",Colors Bangla
+http://172.19.0.18:5000/stream/v1b2nqsm4q5w6e7r8t/playlist.m3u8
+#EXTINF:-1 tvg-id="y9u8i7o6p5avvs3d2f" tvg-name="Sony Aath" tvg-logo="" group-title="",Sony Aath
+http://172.19.0.18:5000/stream/y9u8i7o6p5avvs3d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="g1h2j3k4l5dfgdfe6x7c8v" tvg-name="Jalsha Movies" tvg-logo="" group-title="",Jalsha Movies
+http://172.19.0.18:5000/stream/g1h2j3k4l5dfgdfe6x7c8v/playlist.m3u8
+#EXTINF:-1 tvg-id="b9n8m7q6uierio5e4r3t2y" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="",Zee Bangla Cinema
+http://172.19.0.18:5000/stream/b9n8m7q6uierio5e4r3t2y/playlist.m3u8
+#EXTINF:-1 tvg-id="u1i2o3p4a5vck6d7f8g" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="",Colors Bangla Cinema
+http://172.19.0.18:5000/stream/u1i2o3p4a5vck6d7f8g/playlist.m3u8
+#EXTINF:-1 tvg-id="h9j8k7lopifodkz5x4c3v2b" tvg-name="Aakash Aath" tvg-logo="" group-title="",Aakash Aath
+http://172.19.0.18:5000/stream/h9j8k7lopifodkz5x4c3v2b/playlist.m3u8
+#EXTINF:-1 tvg-id="n1m2q3w4e5r6okvok7y8u" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="",Enterr10 Bangla
+http://172.19.0.18:5000/stream/n1m2q3w4e5r6okvok7y8u/playlist.m3u8
+#EXTINF:-1 tvg-id="i9o8p7pdfi6s5d4f3g2h" tvg-name="Rongeen TV" tvg-logo="" group-title="",Rongeen TV
+http://172.19.0.18:5000/stream/i9o8p7pdfi6s5d4f3g2h/playlist.m3u8
+#EXTINF:-1 tvg-id="j1k2l3z4cvnuhed5c6v7b8n" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="",Ruposhi Bangla
+http://172.19.0.18:5000/stream/j1k2l3z4cvnuhed5c6v7b8n/playlist.m3u8
+#EXTINF:-1 tvg-id="m9q8w7e6rkijdvt4y3u2i" tvg-name="Sun Bangla" tvg-logo="" group-title="",Sun Bangla
+http://172.19.0.18:5000/stream/m9q8w7e6rkijdvt4y3u2i/playlist.m3u8
+#EXTINF:-1 tvg-id="p9a8s7n45r46f5g4h3j2k" tvg-name="Hum Masala" tvg-logo="" group-title="",Hum Masala
+http://172.19.0.18:5000/stream/p9a8s7n45r46f5g4h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="l1z2x3jm3kj34v5b6n7m8q" tvg-name="Love Nature" tvg-logo="" group-title="",Love Nature
+http://172.19.0.18:5000/stream/l1z2x3jm3kj34v5b6n7m8q/playlist.m3u8
+#EXTINF:-1 tvg-id="c9v8b75uyh56m5q4w3e2r" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
+http://172.19.0.18:5000/stream/c9v8b75uyh56m5q4w3e2r/playlist.m3u8
+#EXTINF:-1 tvg-id="t1y2u3imnndn3i4o5p6a7s8d" tvg-name="BBC Earth" tvg-logo="" group-title="",BBC Earth
+http://172.19.0.18:5000/stream/t1y2u3imnndn3i4o5p6a7s8d/playlist.m3u8
+#EXTINF:-1 tvg-id="f9g87uj45jmn7j6k5l4z3x2c" tvg-name="Discovery" tvg-logo="" group-title="",Discovery
+http://172.19.0.18:5000/stream/f9g87uj45jmn7j6k5l4z3x2c/playlist.m3u8
+#EXTINF:-1 tvg-id="v1bu75jnm5n3m4q5w6e7r8t" tvg-name="Discovery" tvg-logo="" group-title="",Discovery
+http://172.19.0.18:5000/stream/v1bu75jnm5n3m4q5w6e7r8t/playlist.m3u8
+#EXTINF:-1 tvg-id="y9u8i7893hnh456p5a4s3d2f" tvg-name="Discovery Science" tvg-logo="" group-title="",Discovery Science
+http://172.19.0.18:5000/stream/y9u8i7893hnh456p5a4s3d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="g1h2j36jnh4n5n4l5z6x7c8v" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+http://172.19.0.18:5000/stream/g1h2j36jnh4n5n4l5z6x7c8v/playlist.m3u8
+#EXTINF:-1 tvg-id="b9n8m9dfn3q6w5e4r3t2y" tvg-name="History TV18" tvg-logo="" group-title="",History TV18
+http://172.19.0.18:5000/stream/b9n8m9dfn3q6w5e4r3t2y/playlist.m3u8
+#EXTINF:-1 tvg-id="u1i2o65jmn4mm4p4a5s6d7f8g" tvg-name="Investigation Discovery" tvg-logo="" group-title="",Investigation Discovery
+http://172.19.0.18:5000/stream/u1i2o65jmn4mm4p4a5s6d7f8g/playlist.m3u8
+#EXTINF:-1 tvg-id="h9j8k77j5j6z5x4c3v2b" tvg-name="Nat Geo Wild" tvg-logo="" group-title="",Nat Geo Wild
+http://172.19.0.18:5000/stream/h9j8k77j5j6z5x4c3v2b/playlist.m3u8
+#EXTINF:-1 tvg-id="n1m2q3854jnm54e5r6t7y8u" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
+http://172.19.0.18:5000/stream/n1m2q3854jnm54e5r6t7y8u/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e3885y6u7i8o" tvg-name="Duronto" tvg-logo="" group-title="",Duronto
+http://172.19.0.18:5000/stream/q1w2e3885y6u7i8o/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t3y43nnn35i6o7p8a" tvg-name="ETV Bal Bharat" tvg-logo="" group-title="",ETV Bal Bharat
+http://172.19.0.18:5000/stream/e1r2t3y43nnn35i6o7p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f7j4jkjk6h5j4k3l2z" tvg-name="Cartoon Network HD+" tvg-logo="" group-title="",Cartoon Network HD+
+http://172.19.0.18:5000/stream/s9d8f7j4jkjk6h5j4k3l2z/playlist.m3u8
+#EXTINF:-1 tvg-id="x1c2v3b43nmmn3m5m6q7w8e" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+http://172.19.0.18:5000/stream/x1c2v3b43nmmn3m5m6q7w8e/playlist.m3u8
+#EXTINF:-1 tvg-id="r9t8y7u6i3mn3jo4p3a2s" tvg-name="Discovery Kids" tvg-logo="" group-title="",Discovery Kids
+http://172.19.0.18:5000/stream/r9t8y7u6i3mn3jo4p3a2s/playlist.m3u8
+#EXTINF:-1 tvg-id="d1f2g3h3jjjj5k6l7z8x" tvg-name="Disnep Channel" tvg-logo="" group-title="",Disnep Channel
+http://172.19.0.18:5000/stream/d1f2g3h3jjjj5k6l7z8x/playlist.m3u8
+#EXTINF:-1 tvg-id="c9v8b7nn43n6m5q4w3e2r" tvg-name="Duronto" tvg-logo="" group-title="",Duronto
+http://172.19.0.18:5000/stream/c9v8b7nn43n6m5q4w3e2r/playlist.m3u8
+#EXTINF:-1 tvg-id="t1y2u3i4o2nm4jjp6a7s8d" tvg-name="Hungama" tvg-logo="" group-title="",Hungama
+http://172.19.0.18:5000/stream/t1y2u3i4o2nm4jjp6a7s8d/playlist.m3u8
+#EXTINF:-1 tvg-id="f9g8h7j654mmj34j5l4z3x2c" tvg-name="Nick" tvg-logo="" group-title="",Nick
+http://172.19.0.18:5000/stream/f9g8h7j654mmj34j5l4z3x2c/playlist.m3u8
+#EXTINF:-1 tvg-id="v1b2n3mn45rmm34q5w6e7r8t" tvg-name="Nick Jr" tvg-logo="" group-title="",Nick Jr
+http://172.19.0.18:5000/stream/v1b2n3mn45rmm34q5w6e7r8t/playlist.m3u8
+#EXTINF:-1 tvg-id="y9u8i7o6j4jhjh345a4s3d2f" tvg-name="Pogo" tvg-logo="" group-title="",Pogo
+http://172.19.0.18:5000/stream/y9u8i7o6j4jhjh345a4s3d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="g1h2j3kkj4kk4l5z6x7c8v" tvg-name="Sonic" tvg-logo="" group-title="",Sonic
+http://172.19.0.18:5000/stream/g1h2j3kkj4kk4l5z6x7c8v/playlist.m3u8
+#EXTINF:-1 tvg-id="o1p2a3s4d5n4nn46g7h8j" tvg-name="B4U Music" tvg-logo="" group-title="",B4U Music
+http://172.19.0.18:5000/stream/o1p2a3s4d5n4nn46g7h8j/playlist.m3u8
+#EXTINF:-1 tvg-id="k9l8z7x6mn4m2m5v4b3n2m" tvg-name="Zing" tvg-logo="" group-title="",Zing
+http://172.19.0.18:5000/stream/k9l8z7x6mn4m2m5v4b3n2m/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e3r4tmn43mmy6u7i8o" tvg-name="Zoom" tvg-logo="" group-title="",Zoom
+http://172.19.0.18:5000/stream/q1w2e3r4tmn43mmy6u7i8o/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e3rn3nnmt5y6u7i8o" tvg-name="Hitz" tvg-logo="" group-title="",Hitz
+http://172.19.0.18:5000/stream/q1w2e3rn3nnmt5y6u7i8o/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r767jm4mjn6y5u4i3o2p" tvg-name="9x Jalwa" tvg-logo="" group-title="",9x Jalwa
+http://172.19.0.18:5000/stream/w9e8r767jm4mjn6y5u4i3o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="a1s2d6jn4mnmf4g5h6j7k8l" tvg-name="B4U Music" tvg-logo="" group-title="",B4U Music
+http://172.19.0.18:5000/stream/a1s2d6jn4mnmf4g5h6j7k8l/playlist.m3u8
+#EXTINF:-1 tvg-id="z9x8c65mnj4mnv6b5n4m3q2w" tvg-name="Sangeet Bangla" tvg-logo="" group-title="",Sangeet Bangla
+http://172.19.0.18:5000/stream/z9x8c65mnj4mnv6b5n4m3q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t35n4n4u5i6o7p8a" tvg-name="Mastiii" tvg-logo="" group-title="",Mastiii
+http://172.19.0.18:5000/stream/e1r2t35n4n4u5i6o7p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f3njm5ng6h5j4k3l2z" tvg-name="Trace Urban" tvg-logo="" group-title="",Trace Urban
+http://172.19.0.18:5000/stream/s9d8f3njm5ng6h5j4k3l2z/playlist.m3u8
+#EXTINF:-1 tvg-id="x1c2v65njm4njm4b4n5m6q7w8e" tvg-name="Show Box" tvg-logo="" group-title="",Show Box
+http://172.19.0.18:5000/stream/x1c2v65njm4njm4b4n5m6q7w8e/playlist.m3u8
+#EXTINF:-1 tvg-id="r9t8y7u64nnm56m5o4p3a2s" tvg-name="yrf Music" tvg-logo="" group-title="",yrf Music
+http://172.19.0.18:5000/stream/r9t8y7u64nnm56m5o4p3a2s/playlist.m3u8
+#EXTINF:-1 tvg-id="t1y2u01o5p6a7s8d" tvg-name="ATN News" tvg-logo="" group-title="",ATN News
+http://172.19.0.18:5000/stream/t1y2u01o5p6a7s8d/playlist.m3u8
+#EXTINF:-1 tvg-id="h9j8k7l6774c3v2b" tvg-name="BTV News" tvg-logo="" group-title="",BTV News
+http://172.19.0.18:5000/stream/h9j8k7l6774c3v2b/playlist.m3u8
+#EXTINF:-1 tvg-id="i9o8p7a11d4f3g2h" tvg-name="Channel 24" tvg-logo="" group-title="",Channel 24
+http://172.19.0.18:5000/stream/i9o8p7a11d4f3g2h/playlist.m3u8
+#EXTINF:-1 tvg-id="p9a8s7d6234h3j2k" tvg-name="DBC" tvg-logo="" group-title="",DBC
+http://172.19.0.18:5000/stream/p9a8s7d6234h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r7t6y3453o2p" tvg-name="Ekhon" tvg-logo="" group-title="",Ekhon
+http://172.19.0.18:5000/stream/w9e8r7t6y3453o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="e1r2t3y4u34e34i617p8a" tvg-name="Independent" tvg-logo="" group-title="",Independent
+http://172.19.0.18:5000/stream/e1r2t3y4u34e34i617p8a/playlist.m3u8
+#EXTINF:-1 tvg-id="s9d8f7g6h5334k3l1z" tvg-name="Jamuna TV" tvg-logo="" group-title="",Jamuna TV
+http://172.19.0.18:5000/stream/s9d8f7g6h5334k3l1z/playlist.m3u8
+#EXTINF:-1 tvg-id="y9u8i7o8989p5a1s3d2f" tvg-name="News 24" tvg-logo="" group-title="",News 24
+http://172.19.0.18:5000/stream/y9u8i7o8989p5a1s3d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="u1i2o3p64636a5s1d7f8g" tvg-name="Somoy TV" tvg-logo="" group-title="",Somoy TV
+http://172.19.0.18:5000/stream/u1i2o3p64636a5s1d7f8g/playlist.m3u8
+#EXTINF:-1 tvg-id="h9j8k7l6767315x4c3v2b" tvg-name="71" tvg-logo="" group-title="",71
+http://172.19.0.18:5000/stream/h9j8k7l6767315x4c3v2b/playlist.m3u8
+#EXTINF:-1 tvg-id="o112a3s4d5jned6g7h8j" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="",Zee 24 Ghanta
+http://172.19.0.18:5000/stream/o112a3s4d5jned6g7h8j/playlist.m3u8
+#EXTINF:-1 tvg-id="a1s2d3fn34mm3g5h6j7k8l" tvg-name="Geo News" tvg-logo="" group-title="",Geo News
+http://172.19.0.18:5000/stream/a1s2d3fn34mm3g5h6j7k8l/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e6j4n4r4t5y6u7i8o" tvg-name="Madani Channel Bangla" tvg-logo="" group-title="",Madani Channel Bangla
+http://172.19.0.18:5000/stream/q1w2e6j4n4r4t5y6u7i8o/playlist.m3u8
+#EXTINF:-1 tvg-id="p9a8s6mnn3d6f5g4h3j2k" tvg-name="Peace TV Bangla" tvg-logo="" group-title="",Peace TV Bangla
+http://172.19.0.18:5000/stream/p9a8s6mnn3d6f5g4h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="l1z2x5h3nc4v5b6n7m8q" tvg-name="Islam Channel Bangla" tvg-logo="" group-title="",Islam Channel Bangla
+http://172.19.0.18:5000/stream/l1z2x5h3nc4v5b6n7m8q/playlist.m3u8
+#EXTINF:-1 tvg-id="n1m2q3w8738e5r6t7y8u" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.19.0.18:5000/stream/n1m2q3w8738e5r6t7y8u/playlist.m3u8
+#EXTINF:-1 tvg-id="i9o8p7a6s5787344f3g2h" tvg-name="Star Sports 1" tvg-logo="" group-title="",Star Sports 1
+http://172.19.0.18:5000/stream/i9o8p7a6s5787344f3g2h/playlist.m3u8
+#EXTINF:-1 tvg-id="j1k2l323z4x5c6v7b8n" tvg-name="Star Sports 2" tvg-logo="" group-title="",Star Sports 2
+http://172.19.0.18:5000/stream/j1k2l323z4x5c6v7b8n/playlist.m3u8
+#EXTINF:-1 tvg-id="m9q8w7e6r5278784y3u2i" tvg-name="Star Sports 3" tvg-logo="" group-title="",Star Sports 3
+http://172.19.0.18:5000/stream/m9q8w7e6r5278784y3u2i/playlist.m3u8
+#EXTINF:-1 tvg-id="o1p2a3s4d536366g7h8j" tvg-name="Star Sports Select 1" tvg-logo="" group-title="",Star Sports Select 1
+http://172.19.0.18:5000/stream/o1p2a3s4d536366g7h8j/playlist.m3u8
+#EXTINF:-1 tvg-id="k9l8z7x6c5v333b3n2m" tvg-name="Star Sports Select 2" tvg-logo="" group-title="",Star Sports Select 2
+http://172.19.0.18:5000/stream/k9l8z7x6c5v333b3n2m/playlist.m3u8
+#EXTINF:-1 tvg-id="q1w2e3r674674t5y6u7i8o" tvg-name="Sony Sports Ten 1" tvg-logo="" group-title="",Sony Sports Ten 1
+http://172.19.0.18:5000/stream/q1w2e3r674674t5y6u7i8o/playlist.m3u8
+#EXTINF:-1 tvg-id="p9a8s7d6f563634h3j2k" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
+http://172.19.0.18:5000/stream/p9a8s7d6f563634h3j2k/playlist.m3u8
+#EXTINF:-1 tvg-id="l1z2x3c4v53336n7m8q" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="",Sony Sports Ten 3
+http://172.19.0.18:5000/stream/l1z2x3c4v53336n7m8q/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r7t6y3838u4i3o2p" tvg-name="Sony Sports Ten 4" tvg-logo="" group-title="",Sony Sports Ten 4
+http://172.19.0.18:5000/stream/w9e8r7t6y3838u4i3o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="a1s2d3f4367675h6j7k8l" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
+http://172.19.0.18:5000/stream/a1s2d3f4367675h6j7k8l/playlist.m3u8
+#EXTINF:-1 tvg-id="z9x8c7v6b366663n4m3q2w" tvg-name="Ten Cricket" tvg-logo="" group-title="",Ten Cricket
+http://172.19.0.18:5000/stream/z9x8c7v6b366663n4m3q2w/playlist.m3u8
+#EXTINF:-1 tvg-id="l1z2x3c4vkkl43kl23b6n7m8q" tvg-name="Hum TV" tvg-logo="" group-title="",Hum TV
+http://172.19.0.18:5000/stream/l1z2x3c4vkkl43kl23b6n7m8q/playlist.m3u8
+#EXTINF:-1 tvg-id="w9e8r7t6yj34mm3u4i3o2p" tvg-name="Hum Sitaray" tvg-logo="" group-title="",Hum Sitaray
+http://172.19.0.18:5000/stream/w9e8r7t6yj34mm3u4i3o2p/playlist.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="Asiah Tv" tvg-logo="" group-title="",Asiah Tv
+http://172.19.0.18:5000/stream/122/playlist.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="Global Tv" tvg-logo="" group-title="",Global Tv
+http://172.19.0.18:5000/stream/124/playlist.m3u8
