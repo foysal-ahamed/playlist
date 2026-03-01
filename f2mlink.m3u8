@@ -1,4 +1,17 @@
 #EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
+
+# Dedicated Channel List
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="TSports" tvg-logo="" group-title="",Sony Pix
+http://172.19.1.2/63463433/index.m3u8
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="TSports" tvg-logo="" group-title="",Sony Pix
+http://172.19.1.2/9865678/index.m3u8
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="TSports" tvg-logo="" group-title="",Sony Pix
+http://172.19.1.2/9346574/index.m3u8
+#EXTINF:-1 tvg-id="8293746150293" tvg-name="TSports" tvg-logo="" group-title="",Sony Pix
+http://172.19.1.2/9090801/index.m3u8
+# Dedicated Channel List End
+
+
 #EXTINF:-1 tvg-id="8293746150293" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
 http://172.19.0.18:5000/stream/8293746150293/playlist.m3u8
 #EXTINF:-1 tvg-id="4829103847562" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
