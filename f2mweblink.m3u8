@@ -12,7 +12,6 @@ http://172.19.1.2/9090801/index.m3u8
 # Dedicated Channel List End
 
 # redforce and cloudtv
-#EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
 #EXTINF:-1 tvg-id="8293746150293" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
 http://172.19.0.18:5000/stream/8293746150293/playlist.m3u8
 #EXTINF:-1 tvg-id="4829103847562" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
@@ -27,14 +26,10 @@ http://172.19.0.18:5000/stream/3847562910384/playlist.m3u8
 http://172.19.0.18:5000/stream/5839201928374/playlist.m3u8
 #EXTINF:-1 tvg-id="1928374650192" tvg-name="Asian" tvg-logo="" group-title="",Asian
 http://172.19.0.18:5000/stream/1928374650192/playlist.m3u8
-#EXTINF:-1 tvg-id="8374651920384" tvg-name="Ananda TV" tvg-logo="" group-title="",Ananda TV
-http://172.19.0.18:5000/stream/8374651920384/playlist.m3u8
 #EXTINF:-1 tvg-id="4958273615029" tvg-name="Bangla TV" tvg-logo="" group-title="",Bangla TV
 http://172.19.0.18:5000/stream/4958273615029/playlist.m3u8
 #EXTINF:-1 tvg-id="6039485712938" tvg-name="Boishakhi TV" tvg-logo="" group-title="",Boishakhi TV
 http://172.19.0.18:5000/stream/6039485712938/playlist.m3u8
-#EXTINF:-1 tvg-id="3829104857612" tvg-name="Bijoy TV" tvg-logo="" group-title="",Bijoy TV
-http://172.19.0.18:5000/stream/3829104857612/playlist.m3u8
 #EXTINF:-1 tvg-id="7384950291827" tvg-name="Bangla Vision" tvg-logo="" group-title="",Bangla Vision
 http://172.19.0.18:5000/stream/7384950291827/playlist.m3u8
 #EXTINF:-1 tvg-id="5019283746510" tvg-name="BTV" tvg-logo="" group-title="",BTV
@@ -45,8 +40,6 @@ http://172.19.0.18:5000/stream/9182736450192/playlist.m3u8
 http://172.19.0.18:5000/stream/2736451029384/playlist.m3u8
 #EXTINF:-1 tvg-id="6510293847562" tvg-name="Deepto" tvg-logo="" group-title="",Deepto
 http://172.19.0.18:5000/stream/6510293847562/playlist.m3u8
-#EXTINF:-1 tvg-id="3847561029384" tvg-name="Desh TV" tvg-logo="" group-title="",Desh TV
-http://172.19.0.18:5000/stream/3847561029384/playlist.m3u8
 #EXTINF:-1 tvg-id="7364510293855" tvg-name="&flix" tvg-logo="" group-title="",&flix
 http://172.19.0.18:5000/stream/7364510293855/playlist.m3u8
 #EXTINF:-1 tvg-id="4857201938484" tvg-name="&prive" tvg-logo="" group-title="",&prive
@@ -143,8 +136,6 @@ http://172.19.0.18:5000/stream/1928374650299/playlist.m3u8
 http://172.19.0.18:5000/stream/8374651920300/playlist.m3u8
 #EXTINF:-1 tvg-id="3847561029393" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
 http://172.19.0.18:5000/stream/3847561029393/playlist.m3u8
-#EXTINF:-1 tvg-id="7364510293854" tvg-name="Discovery Kids" tvg-logo="" group-title="",Discovery Kids
-http://172.19.0.18:5000/stream/7364510293854/playlist.m3u8
 #EXTINF:-1 tvg-id="4857201938483" tvg-name="Disnep Channel" tvg-logo="" group-title="",Disnep Channel
 http://172.19.0.18:5000/stream/4857201938483/playlist.m3u8
 #EXTINF:-1 tvg-id="1029384756108" tvg-name="Hungama" tvg-logo="" group-title="",Hungama
@@ -163,22 +154,14 @@ http://172.19.0.18:5000/stream/3847561029392/playlist.m3u8
 http://172.19.0.18:5000/stream/7364510293853/playlist.m3u8
 #EXTINF:-1 tvg-id="4857201938482" tvg-name="Zoom" tvg-logo="" group-title="",Zoom
 http://172.19.0.18:5000/stream/4857201938482/playlist.m3u8
-#EXTINF:-1 tvg-id="6510293847573" tvg-name="9x Jalwa" tvg-logo="" group-title="",9x Jalwa
-http://172.19.0.18:5000/stream/6510293847573/playlist.m3u8
 #EXTINF:-1 tvg-id="1928374650304" tvg-name="Trace Urban" tvg-logo="" group-title="",Trace Urban
 http://172.19.0.18:5000/stream/1928374650304/playlist.m3u8
 #EXTINF:-1 tvg-id="3847561029398" tvg-name="yrf Music" tvg-logo="" group-title="",yrf Music
 http://172.19.0.18:5000/stream/3847561029398/playlist.m3u8
 #EXTINF:-1 tvg-id="6928374501928" tvg-name="ATN News" tvg-logo="" group-title="",ATN News
 http://172.19.0.18:5000/stream/6928374501928/playlist.m3u8
-#EXTINF:-1 tvg-id="2910293847561" tvg-name="BTV News" tvg-logo="" group-title="",BTV News
-http://172.19.0.18:5000/stream/2910293847561/playlist.m3u8
 #EXTINF:-1 tvg-id="4857201938475" tvg-name="Channel 24" tvg-logo="" group-title="",Channel 24
 http://172.19.0.18:5000/stream/4857201938475/playlist.m3u8
-#EXTINF:-1 tvg-id="5610293847561" tvg-name="DBC" tvg-logo="" group-title="",DBC
-http://172.19.0.18:5000/stream/5610293847561/playlist.m3u8
-#EXTINF:-1 tvg-id="2938475610238" tvg-name="Ekhon" tvg-logo="" group-title="",Ekhon
-http://172.19.0.18:5000/stream/2938475610238/playlist.m3u8
 #EXTINF:-1 tvg-id="1029384756102" tvg-name="Independent" tvg-logo="" group-title="",Independent
 http://172.19.0.18:5000/stream/1029384756102/playlist.m3u8
 #EXTINF:-1 tvg-id="6574839201928" tvg-name="Jamuna TV" tvg-logo="" group-title="",Jamuna TV
@@ -187,10 +170,6 @@ http://172.19.0.18:5000/stream/6574839201928/playlist.m3u8
 http://172.19.0.18:5000/stream/4857201938476/playlist.m3u8
 #EXTINF:-1 tvg-id="9182736450293" tvg-name="Somoy TV" tvg-logo="" group-title="",Somoy TV
 http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
-#EXTINF:-1 tvg-id="3847561029386" tvg-name="71" tvg-logo="" group-title="",71
-http://172.19.0.18:5000/stream/3847561029386/playlist.m3u8
-#EXTINF:-1 tvg-id="9182736450296" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="",Zee 24 Ghanta
-http://172.19.0.18:5000/stream/9182736450296/playlist.m3u8
 #EXTINF:-1 tvg-id="9182736450299" tvg-name="Geo News" tvg-logo="" group-title="",Geo News
 http://172.19.0.18:5000/stream/9182736450299/playlist.m3u8
 #EXTINF:-1 tvg-id="7364510293858" tvg-name="Madani Channel Bangla" tvg-logo="" group-title="",Madani Channel Bangla
@@ -421,6 +400,6 @@ http://172.19.0.18:5000/stream/42/playlist.m3u8
 http://172.19.0.18:5000/stream/122/playlist.m3u8
 #EXTINF:-1 tvg-id="124" tvg-name="Global Tv" tvg-logo="" group-title="",Global Tv
 http://172.19.0.18:5000/stream/124/playlist.m3u8
-#EXTINF:-1 tvg-id="cloudtv-test-1" tvg-name="TEST-1" tvg-logo="" group-title="",TEST-1
-http://172.19.0.18:5000/stream/cloudtv-test-1/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-ipl-bangla-audio-2026" tvg-name="IPL Bangla Audio 2026" tvg-logo="" group-title="",IPL Bangla Audio 2026
+http://172.19.0.18:5000/stream/cloudtv-ipl-bangla-audio-2026/playlist.m3u8
 # redforce and cloudtv
