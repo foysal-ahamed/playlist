@@ -104,14 +104,8 @@ http://172.19.0.18:5000/stream/5647382910387/playlist.m3u8
 http://172.19.0.18:5000/stream/1928374650295/playlist.m3u8
 #EXTINF:-1 tvg-id="8374651920296" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="",Colors Bangla Cinema
 http://172.19.0.18:5000/stream/8374651920296/playlist.m3u8
-#EXTINF:-1 tvg-id="3847561029389" tvg-name="Aakash Aath" tvg-logo="" group-title="",Aakash Aath
-http://172.19.0.18:5000/stream/3847561029389/playlist.m3u8
 #EXTINF:-1 tvg-id="7364510293850" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="",Enterr10 Bangla
 http://172.19.0.18:5000/stream/7364510293850/playlist.m3u8
-#EXTINF:-1 tvg-id="4857201938479" tvg-name="Rongeen TV" tvg-logo="" group-title="",Rongeen TV
-http://172.19.0.18:5000/stream/4857201938479/playlist.m3u8
-#EXTINF:-1 tvg-id="2039485761031" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="",Ruposhi Bangla
-http://172.19.0.18:5000/stream/2039485761031/playlist.m3u8
 #EXTINF:-1 tvg-id="6510293847565" tvg-name="Sun Bangla" tvg-logo="" group-title="",Sun Bangla
 http://172.19.0.18:5000/stream/6510293847565/playlist.m3u8
 #EXTINF:-1 tvg-id="1029384756107" tvg-name="Hum Masala" tvg-logo="" group-title="",Hum Masala
@@ -162,6 +156,8 @@ http://172.19.0.18:5000/stream/3847561029392/playlist.m3u8
 http://172.19.0.18:5000/stream/7364510293853/playlist.m3u8
 #EXTINF:-1 tvg-id="4857201938482" tvg-name="Zoom" tvg-logo="" group-title="",Zoom
 http://172.19.0.18:5000/stream/4857201938482/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650304" tvg-name="Trace Urban" tvg-logo="" group-title="",Trace Urban
+http://172.19.0.18:5000/stream/1928374650304/playlist.m3u8
 #EXTINF:-1 tvg-id="3847561029398" tvg-name="yrf Music" tvg-logo="" group-title="",yrf Music
 http://172.19.0.18:5000/stream/3847561029398/playlist.m3u8
 #EXTINF:-1 tvg-id="6928374501928" tvg-name="ATN News" tvg-logo="" group-title="",ATN News
@@ -192,6 +188,20 @@ http://172.19.0.18:5000/stream/4857201938487/playlist.m3u8
 http://172.19.0.18:5000/stream/1029384756112/playlist.m3u8
 #EXTINF:-1 tvg-id="2910293847562" tvg-name="Star Sports 1" tvg-logo="" group-title="",Star Sports 1
 http://172.19.0.18:5000/stream/2910293847562/playlist.m3u8
+#EXTINF:-1 tvg-id="6510293847563" tvg-name="Star Sports 2" tvg-logo="" group-title="",Star Sports 2
+http://172.19.0.18:5000/stream/6510293847563/playlist.m3u8
+#EXTINF:-1 tvg-id="4857201938477" tvg-name="Star Sports 3" tvg-logo="" group-title="",Star Sports 3
+http://172.19.0.18:5000/stream/4857201938477/playlist.m3u8
+#EXTINF:-1 tvg-id="1928374650294" tvg-name="Star Sports Select 1" tvg-logo="" group-title="",Star Sports Select 1
+http://172.19.0.18:5000/stream/1928374650294/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910385" tvg-name="Sony Sports Ten 1" tvg-logo="" group-title="",Sony Sports Ten 1
+http://172.19.0.18:5000/stream/5647382910385/playlist.m3u8
+#EXTINF:-1 tvg-id="3847561029387" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="",Sony Sports Ten 3
+http://172.19.0.18:5000/stream/3847561029387/playlist.m3u8
+#EXTINF:-1 tvg-id="7483920192838" tvg-name="Sony Sports Ten 4" tvg-logo="" group-title="",Sony Sports Ten 4
+http://172.19.0.18:5000/stream/7483920192838/playlist.m3u8
+#EXTINF:-1 tvg-id="1920384756124" tvg-name="Ten Cricket" tvg-logo="" group-title="",Ten Cricket
+http://172.19.0.18:5000/stream/1920384756124/playlist.m3u8
 #EXTINF:-1 tvg-id="6510293847568" tvg-name="Hum TV" tvg-logo="" group-title="",Hum TV
 http://172.19.0.18:5000/stream/6510293847568/playlist.m3u8
 #EXTINF:-1 tvg-id="2910293847565" tvg-name="Hum Sitaray" tvg-logo="" group-title="",Hum Sitaray
