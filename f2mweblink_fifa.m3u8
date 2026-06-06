@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
+
+# Dedicated Channel List
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.1.2/63463433/index.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.1.2/9865678/index.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.1.2/9346574/index.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.1.2/9090801/index.m3u8
+# Dedicated Channel List End
+
+# Cloud and Redforce TV
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.0.18:5000/stream/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+http://172.19.0.18:5000/stream/79/playlist.m3u8
+# Cloud and Redforce TV
