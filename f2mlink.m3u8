@@ -1,24 +1,26 @@
 #EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
 
 # Dedicated Channel List
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 1
 http://172.19.1.2/63463433/index.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 2
 http://172.19.1.2/9865678/index.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 3
 http://172.19.1.2/9346574/index.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 4
 http://172.19.1.2/9090801/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 5
+http://172.19.1.2/667788/index.m3u8
 # Dedicated Channel List End
 
 # Cloud and Redforce TV
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo=https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 6
 http://172.19.0.18:5000/stream/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 7
 http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 8
 http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20260202/ourmid/pngtree-fifa-world-cup-2026-trophy-award-golden-celebration-global-sports-championship-png-image_18679245.webp", FIFA 2026 Dedicated
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 9
 http://172.19.0.18:5000/stream/79/playlist.m3u8
 # Cloud and Redforce TV
 
