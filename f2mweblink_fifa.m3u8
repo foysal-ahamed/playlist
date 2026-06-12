@@ -1,14 +1,23 @@
 #EXTM3U x-tvg-url="http://epg.service.com/guide.xml.gz"
 
 # Dedicated Channel List
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 1
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Premium Server 1
+http://172.19.1.2/digitv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Premium Server 2
+http://172.19.1.2/digitv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Premium Server 3
+http://172.19.1.2/mtv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Premium Server 4
+http://172.19.1.2/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q1
 http://172.19.1.2/63463433/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 2
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q2
 http://172.19.1.2/9865678/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 3
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q3
 http://172.19.1.2/9346574/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 4
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q4
 http://172.19.1.2/9090801/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2026 Server 5
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q5
 http://172.19.1.2/667788/index.m3u8
 # Dedicated Channel List End
