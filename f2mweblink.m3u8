@@ -25,8 +25,12 @@ http://172.19.1.2/667788/index.m3u8
 # Cloud and Redforce TV
 #EXTINF:-1 tvg-id="8293746150293" tvg-name="Sony Pix" tvg-logo="" group-title="",Sony Pix
 http://172.19.0.18:5000/stream/8293746150293/playlist.m3u8
+#EXTINF:-1 tvg-id="4829103847562" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://172.19.0.18:5000/stream/4829103847562/playlist.m3u8
 #EXTINF:-1 tvg-id="9102938475610" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="",Sony Sports Ten 5
 http://172.19.0.18:5000/stream/9102938475610/playlist.m3u8
+#EXTINF:-1 tvg-id="3748291029384" tvg-name="T Sports" tvg-logo="" group-title="",T Sports
+http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
 #EXTINF:-1 tvg-id="5647382910238" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="",Sony Sports Ten 2
 http://172.19.0.18:5000/stream/5647382910238/playlist.m3u8
 #EXTINF:-1 tvg-id="6574839201827" tvg-name="Star Jalsha" tvg-logo="" group-title="",Star Jalsha
@@ -115,6 +119,8 @@ http://172.19.0.18:5000/stream/1928374650295/playlist.m3u8
 http://172.19.0.18:5000/stream/8374651920296/playlist.m3u8
 #EXTINF:-1 tvg-id="7364510293850" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="",Enterr10 Bangla
 http://172.19.0.18:5000/stream/7364510293850/playlist.m3u8
+#EXTINF:-1 tvg-id="2039485761031" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="",Ruposhi Bangla
+http://172.19.0.18:5000/stream/2039485761031/playlist.m3u8
 #EXTINF:-1 tvg-id="6510293847565" tvg-name="Sun Bangla" tvg-logo="" group-title="",Sun Bangla
 http://172.19.0.18:5000/stream/6510293847565/playlist.m3u8
 #EXTINF:-1 tvg-id="1029384756107" tvg-name="Hum Masala" tvg-logo="" group-title="",Hum Masala
@@ -211,8 +217,12 @@ http://172.19.0.18:5000/stream/3847561029387/playlist.m3u8
 http://172.19.0.18:5000/stream/7483920192838/playlist.m3u8
 #EXTINF:-1 tvg-id="1920384756124" tvg-name="Ten Cricket" tvg-logo="" group-title="",Ten Cricket
 http://172.19.0.18:5000/stream/1920384756124/playlist.m3u8
+#EXTINF:-1 tvg-id="5647382910386" tvg-name="Eurosport" tvg-logo="" group-title="",Eurosport
+http://172.19.0.18:5000/stream/5647382910386/playlist.m3u8
 #EXTINF:-1 tvg-id="6510293847568" tvg-name="Hum TV" tvg-logo="" group-title="",Hum TV
 http://172.19.0.18:5000/stream/6510293847568/playlist.m3u8
+#EXTINF:-1 tvg-id="2910293847565" tvg-name="Hum Sitaray" tvg-logo="" group-title="",Hum Sitaray
+http://172.19.0.18:5000/stream/2910293847565/playlist.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="9XM MUSIC" tvg-logo="" group-title="",9XM MUSIC
 http://172.19.0.18:5000/stream/115/playlist.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="A SPORTS HD" tvg-logo="" group-title="",A SPORTS HD
@@ -333,6 +343,8 @@ http://172.19.0.18:5000/stream/92/playlist.m3u8
 http://172.19.0.18:5000/stream/34/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="Sangeet Bangla" tvg-logo="" group-title="",Sangeet Bangla
 http://172.19.0.18:5000/stream/120/playlist.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="SOMOY TV" tvg-logo="" group-title="",SOMOY TV
+http://172.19.0.18:5000/stream/79/playlist.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="SONIC" tvg-logo="" group-title="",SONIC
 http://172.19.0.18:5000/stream/45/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="SONY AAT" tvg-logo="" group-title="",SONY AAT
@@ -411,12 +423,28 @@ http://172.19.0.18:5000/stream/7/playlist.m3u8
 http://172.19.0.18:5000/stream/53/playlist.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="ZOOM" tvg-logo="" group-title="",ZOOM
 http://172.19.0.18:5000/stream/42/playlist.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="Asiah Tv" tvg-logo="" group-title="",Asiah Tv
-http://172.19.0.18:5000/stream/122/playlist.m3u8
 #EXTINF:-1 tvg-id="124" tvg-name="Global Tv" tvg-logo="" group-title="",Global Tv
 http://172.19.0.18:5000/stream/124/playlist.m3u8
-#EXTINF:-1 tvg-id="cloudtv-ipl-2026-final-s0" tvg-name="IPL 2026 FINAL (S0)" tvg-logo="" group-title="",IPL 2026 FINAL (S0)
-http://172.19.0.18:5000/stream/cloudtv-ipl-2026-final-s0/playlist.m3u8
-#EXTINF:-1 tvg-id="cloudtv-ipl-2026-final-s2" tvg-name="IPL 2026 FINAL (S2)" tvg-logo="" group-title="",IPL 2026 FINAL (S2)
-http://172.19.0.18:5000/stream/cloudtv-ipl-2026-final-s2/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s10" tvg-name="FIFA (S10)" tvg-logo="" group-title="",FIFA (S10)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s10/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s9" tvg-name="FIFA (S9)" tvg-logo="" group-title="",FIFA (S9)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s9/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s8" tvg-name="FIFA (S8)" tvg-logo="" group-title="",FIFA (S8)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s8/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s7" tvg-name="FIFA (S7)" tvg-logo="" group-title="",FIFA (S7)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s7/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s6" tvg-name="FIFA (S6)" tvg-logo="" group-title="",FIFA (S6)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s6/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s5" tvg-name="FIFA (S5)" tvg-logo="" group-title="",FIFA (S5)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s5/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s2" tvg-name="FIFA (S2)" tvg-logo="" group-title="",FIFA (S2)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s2/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s0" tvg-name="FIFA (S0)" tvg-logo="" group-title="",FIFA (S0)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s0/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s1" tvg-name="FIFA (S1)" tvg-logo="" group-title="",FIFA (S1)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s1/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s3" tvg-name="FIFA (S3)" tvg-logo="" group-title="",FIFA (S3)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s3/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudtv-fifa-s4" tvg-name="FIFA (S4)" tvg-logo="" group-title="",FIFA (S4)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s4/playlist.m3u8
 # Cloud and Redforce TV
