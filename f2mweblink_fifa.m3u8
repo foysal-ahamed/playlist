@@ -22,23 +22,21 @@ http://172.19.1.2/9090801/index.m3u8
 http://172.19.1.2/667788/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q6
-http://172.19.1.2/tsports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q7
 http://172.19.0.18:5000/stream/cloudtv-fifa-s9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q7
 http://172.19.0.18:5000/stream/cloudtv-fifa-s8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q9
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q8
 http://172.19.0.18:5000/stream/cloudtv-fifa-s7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q10
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q9
 http://172.19.0.18:5000/stream/cloudtv-fifa-s6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q11
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q10
 http://172.19.0.18:5000/stream/cloudtv-fifa-s5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q12
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q11
 http://172.19.0.18:5000/stream/cloudtv-fifa-s2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q13
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q12
 http://172.19.0.18:5000/stream/cloudtv-fifa-s0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q14
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q13
 http://172.19.0.18:5000/stream/cloudtv-fifa-s1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q15
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", WC Good Q14
 http://172.19.0.18:5000/stream/cloudtv-fifa-s3/playlist.m3u8
 # Dedicated Channel List End
