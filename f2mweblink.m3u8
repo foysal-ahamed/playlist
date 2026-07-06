@@ -2,20 +2,13 @@
 
 # Dedicated Channel List
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", T Sports
+http://172.19.0.18:5000/stream/host50-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", PTV 1
-http://172.19.0.18:5000/stream/redforce-ptv-sports-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", PTV 2
-http://172.19.0.18:5000/stream/cloudtv-ptv-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", TSports 1
-http://172.19.0.18:5000/stream/redforce-t-sports-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", TSports 2
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", T Sports 1
 http://172.19.0.18:5000/stream/cloudtv-t-sports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", TSports 3
-http://172.16.200.211/stream/hls/ch01.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", PTV 1
+http://172.19.0.18:5000/stream/cloudtv-ptv-sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 1
 http://172.19.0.18:5000/stream/cloudtv-fifa-s9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 2
@@ -25,13 +18,16 @@ http://172.19.0.18:5000/stream/cloudtv-fifa-s7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 4
 http://172.19.0.18:5000/stream/cloudtv-fifa-s6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 5
-http://172.19.0.18:5000/stream/cloudtv-fifa-s5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 6
 http://172.19.0.18:5000/stream/cloudtv-fifa-s2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 7
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 6
 http://172.19.0.18:5000/stream/cloudtv-fifa-s0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 7
+http://172.19.0.18:5000/stream/cloudtv-fifa-s01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 8
-http://172.19.0.18:5000/stream/cloudtv-fifa-s1/playlist.m3u8
-
+http://172.19.0.18:5000/stream/cloudtv-fifa-s02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 9
+http://172.19.0.18:5000/stream/cloudtv-fifa-s0-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1700238223/6557938f75ff26001dd04342.jpg", FIFA 10
+http://172.19.0.18:5000/stream/cloudtv-fifa-s/playlist.m3u8
 
 # Dedicated Channel List End
